@@ -1,0 +1,25 @@
+{
+  "name": "p04",
+  "version": "0.0.1-alpha.0",
+  "description": "> TODO: description",
+  "author": "renfei <renfei@xurongwangluo.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/p04.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/p04.test.js"
+  },
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}

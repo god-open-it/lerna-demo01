@@ -1,0 +1,22 @@
+{
+  "name": "p03",
+  "version": "0.0.1-alpha.0",
+  "description": "> TODO: description",
+  "author": "renfei <renfei@xurongwangluo.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/p03.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/p03.test.js"
+  }
+}
