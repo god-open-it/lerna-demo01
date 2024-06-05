@@ -1,6 +1,6 @@
 {
   "name": "p02",
-  "version": "0.0.4-alpha.0",
+  "version": "0.0.5-alpha.0",
   "description": "> TODO: description",
   "author": "renfei <renfei@xurongwangluo.com>",
   "homepage": "",
@@ -21,8 +21,8 @@
     "test": "node ./__tests__/p02.test.js"
   },
   "dependencies": {
-    "p03": "^0.0.4-alpha.0",
-    "p04": "^0.0.4-alpha.0"
+    "p03": "^0.0.5-alpha.0",
+    "p04": "^0.0.5-alpha.0"
   },
   "gitHead": "fc5bb306ac0dd48234c098af9610334ce183f2fa"
 }
