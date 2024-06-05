@@ -15,10 +15,10 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "node ./__tests__/p03.test.js"
   },
-  "gitHead": "fc5bb306ac0dd48234c098af9610334ce183f2fa"
+  "gitHead": "311f4c1973afb3279d624425f1c4e5d744d4f5b8"
 }
