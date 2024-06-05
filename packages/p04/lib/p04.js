@@ -5,5 +5,5 @@ export default {
 }
 
 function p04() {
-  return 'Hello from p04';
+  return 'Hello from p04 --';
 }
